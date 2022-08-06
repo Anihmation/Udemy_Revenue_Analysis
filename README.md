@@ -34,5 +34,12 @@ ________
 ____
 ## FINDINGS AND DATA ANALYSIS
 ![UDEMY SUBJECT DASHBOARD](https://user-images.githubusercontent.com/78387629/183259301-599ec86d-cac1-4cfe-a553-80543dd0068d.jpg)
+•	I found out that Web Development has the most subscribers and generates the most revenue, 63% of the company’s revenue.
+•	I found out that Musical Instrument is the Course with the least subscribers and as well generates the least revenue, just a 9% of the company’s revenue.
+•	I also found Web Development with the highest content duration couldn’t deter Subscribers from subscribing proves its content rich. 
+•	The course, Graphics design outperformed every other course in rating, reveals Subscribers interest is high on it.
 ______________
 ## RECOMMENDATION
+•	Based on my crucial findings I highly recommend that Web Development having the interest of the target audience, it is a course, the price should be reviewed and increased a little.
+•	As well, Graphics Design course content alongside the price of its courses reviewed.
+_________
