@@ -1,4 +1,5 @@
 # UDEMY_REVENUE_ANALYSIS
+![download](https://user-images.githubusercontent.com/78387629/183259440-fc80e63d-cb6c-4142-80c5-ccd93718373d.jpg)
 ###### As a Student in a Data Developer Bootcamp, I have been given a task to run a data analysis on Udemy Course Revenue. Disclaimer: This is purely for an Educational purpose, a trial project to mark my learning journey and has nothing to do with Udemy. 
  _________________________________________________________________________________________
  ## PROJECT DESCRIPTION
