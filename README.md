@@ -1,7 +1,5 @@
 # UDEMY_REVENUE_ANALYSIS
 ![download](https://user-images.githubusercontent.com/78387629/183259440-fc80e63d-cb6c-4142-80c5-ccd93718373d.jpg)
-###### As a Student in a Data Developer Bootcamp, I have been given a task to run a data analysis on Udemy Course Revenue. Disclaimer: This is purely for an Educational purpose, a trial project to mark my learning journey and has nothing to do with Udemy. 
- _________________________________________________________________________________________
  ## PROJECT DESCRIPTION
 The Project data collected consists of four different Courses namely:
 Data Sheet Udemy Courses - Business Courses - an XLSX file of 1193 rows; Data Sheet Udemy Courses - Design Courses – a CSV file of 604 rows; Data Sheet Udemy Courses - Music Courses – a CSV file of 681rows; Data Sheet Udemy Courses - Web Development – a CSV file of 1198 rows.
@@ -43,3 +41,5 @@ ______________
 -	Based on my crucial findings I highly recommend that Web Development having the interest of the target audience, it is a course, the price should be reviewed and increased a little.
 -	As well, Graphics Design course content alongside the price of its courses reviewed.
 _________
+###### As a Student in a Data Developer Bootcamp, I have been given a task to run a data analysis on Udemy Course Revenue. Disclaimer: This is purely for an Educational purpose, a trial project to mark my learning journey and has nothing to do with Udemy. 
+ _________________________________________________________________________________________
